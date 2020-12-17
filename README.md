@@ -4,6 +4,8 @@ A new Flutter application.
 
 FIRST COMMIT REBASE .
 SECOND COMMIT REBASE .
+FIRST COMMIT MERGE .
+SECOND COMMIT MERGE .
 ## Getting Started
 
 This project is a starting point for a Flutter application.
