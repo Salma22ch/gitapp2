@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page --- GIT Test FORK & REBASE'),
+      home: MyHomePage(title: 'Flutter Demo Home Page --- GIT Test REBASE VS MERGE'),
     );
   }
 }
